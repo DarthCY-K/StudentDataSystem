@@ -1,3 +1,3 @@
 ﻿  StudentSystem.cpp
-c:\users\ophiuchus\desktop\开发学习\课程设计\studentdatasystem\studentdatasystem\studentsystem.cpp(66): warning C4101: “n”: 未引用的局部变量
-  StudentDataSystem.vcxproj -> C:\Users\Ophiuchus\Desktop\开发学习\课程设计\StudentDataSystem\Debug\StudentDataSystem.exe
+d:\开发学习\课程设计\studentdatasystem\studentdatasystem\studentsystem.cpp(50): warning C4101: “n”: 未引用的局部变量
+  StudentDataSystem.vcxproj -> D:\开发学习\课程设计\StudentDataSystem\Debug\StudentDataSystem.exe
